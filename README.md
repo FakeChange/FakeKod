@@ -1,0 +1,2 @@
+# FakeKod
+Aksaray Fake Kod
